@@ -1,6 +1,14 @@
 # bitcoin-multi-wallet-connection
 Multi-wallet connection demo that covers Unisat, Xverse, Leather wallets.
 
+## Wallet Feature Support
+
+| Wallet | Ordinal-safety | Inscription-safety |
+| ------ | -------------- | ------------------ |
+| Unisat | ✅             | ✅                |
+| Xverse | ✅             | ✅                |
+| Leather| ✅             | ✅                |
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -18,7 +26,7 @@ Launches the app with dev mode
 Build th app for production to the `build` folder.
 
 
-### `yarn start`
+### `yarn preview`
 
 Laucnhes the app with product mode.
 
