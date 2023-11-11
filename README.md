@@ -9,6 +9,14 @@ Multi-wallet connection demo that covers Unisat, Xverse, Leather wallets.
 | Xverse | ✅             | ✅                |
 | Leather| ✅             | ✅                |
 
+## Function Support
+
+| Wallet |     Balance  | Sign Message |  Transfer |
+| ------ | ------------ | ------------ | ----------|
+| Unisat | ✅          | ✅           | ✅        |
+| Xverse | ✅          | ✅           | ✅        |
+| Leather| ✅          | ✅           | ✅        |
+
 ## Available Scripts
 
 In the project directory, you can run:
