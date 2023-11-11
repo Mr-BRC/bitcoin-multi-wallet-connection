@@ -7,6 +7,8 @@ In the project directory, you can run:
 
 ### `yarn install`
 
+Install node modules
+
 ### `yarn dev`
 
 Launches the app with dev mode
